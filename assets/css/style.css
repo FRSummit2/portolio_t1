@@ -1087,5 +1087,5 @@ section {
 
 
 .row.portfolio-container {
-  height: auto !important;
+  /* height: auto !important; */
 }
