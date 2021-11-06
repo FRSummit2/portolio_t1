@@ -21,7 +21,8 @@
 
 
             for (let i = 0; i < img_data.length; i++) {
-                console.log(img_data[i].SRC.split('/view')[0].split('file/d/')[1])
+                // console.log(img_data[i])
+                // console.log(img_data[i].SRC.split('/view')[0].split('file/d/')[1])
                 // let img_src_data = 'https://drive.google.com/thumbnail?id=' + img_data[i].SRC.split('/view')[0].split('file/d/')[1]
                 let img_src_data = 'https://drive.google.com/uc?id=' + img_data[i].SRC.split('/view')[0].split('file/d/')[1]
                 // CARD
