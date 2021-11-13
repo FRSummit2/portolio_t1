@@ -36,7 +36,7 @@
         
                 // IMAGE
                 let img = document.createElement('img')
-                img.className = 'portfolio-wrap'
+                img.className = 'img-fluid'
                 // img.src = img_data[i].SRC
                 img.src = img_src_data
                 img.style.width = '100%'
